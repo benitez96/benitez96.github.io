@@ -284,8 +284,7 @@ h2{
 
 @media screen and (max-width:350px){
 
-
-
+    
 
     .home{
         font-size: 50%;
@@ -298,9 +297,9 @@ h2{
     }
 
 
-    section{
-        text-align: center;
-        padding-left: 0;
+
+    img{
+        width: 50%;
     }
 
 
