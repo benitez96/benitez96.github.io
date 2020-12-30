@@ -115,7 +115,7 @@ main{
     -o-transition: 0.2s;
 }
 
-.nav-link:hover svg, .nav-link:active svg{
+.nav-link:hover svg{
     color:#57c478;
 }
 

@@ -281,3 +281,40 @@ h2{
     }
 
 }
+
+@media screen and (max-width:350px){
+
+
+
+
+    .home{
+        font-size: 50%;
+        flex-direction: column;
+        align-content: flex-start;
+    }
+    
+    .home a{
+        font-size: 1rem ;
+    }
+
+
+    section{
+        text-align: center;
+        padding-left: 0;
+    }
+
+
+    .card{
+
+        width:80%;
+        height:80%;
+
+    }
+
+    .repo-card{
+
+        width: 80%;
+        height:80%;
+
+    }
+}
