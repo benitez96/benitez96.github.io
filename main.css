@@ -2,6 +2,7 @@ body{
     background-color: #111014;
     color: #a7a7a7;
     background-image: url("header.jpg");
+    background-attachment: fixed;
     background-size:cover;
     height: 100vh;
 
